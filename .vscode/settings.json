@@ -10,13 +10,5 @@
         "editor.formatOnSave": true
     },
     // Configure Solidity extension to use forge fmt
-    "solidity.formatter": "forge",
-    "solidity.compileUsingRemoteVersion": "v0.8.30",
-    "solidity.packageDefaultDependenciesContractsDirectory": "src",
-    "solidity.packageDefaultDependenciesDirectory": "lib",
-    // Disable other formatters that might conflict
-    "prettier.enable": false,
-    "prettier.disableLanguages": [
-        "solidity"
-    ]
+    "solidity.formatter": "forge"
 }
