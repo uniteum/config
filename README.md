@@ -1,5 +1,7 @@
 # config
 
+> **WARNING:** This config repo has been moved into the Solidity repo. Please use the config there instead. This repo is no longer maintained.
+
 Shared Foundry configuration for Uniteum repos, consumed as a git submodule.
 
 ## What's in here
